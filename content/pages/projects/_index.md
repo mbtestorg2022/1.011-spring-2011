@@ -56,13 +56,101 @@ In addition to our feedback on your proposal, there are two formal progress repo
 Project Deliverables
 --------------------
 
-| DELIVERABLES | DUE DATES | OBJECTIVES |
-| --- | --- | --- |
-| P1: Project description | Lec #10 |  {{< br >}}{{< br >}} 1.  Provide a brief project description.{{< br >}}2.  Why is the project interesting?{{< br >}}3.  What are the key uncertainties involved in the project? {{< br >}}{{< br >}}  |
-| P2: Progress report I | Lec #17 |  {{< br >}}{{< br >}} 1.  Identification of stakeholders.{{< br >}}2.  Identification of benefits and costs.{{< br >}}3.  Data sources you are using and any data problems you are encountering. {{< br >}}{{< br >}}  |
-| P3: Progress report II | Recitation 10 |  {{< br >}}{{< br >}} 1.  Project finance.{{< br >}}2.  Major barriers to a successful completion of your written project. {{< br >}}{{< br >}}  |
-| P4: Powerpoint presentation | Lec #23 | &nbsp; |
-| P5: Final report | Lec #26 |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DELIVERABLES
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+{{< thopen >}}
+OBJECTIVES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P1: Project description
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Provide a brief project description.
+2.  Why is the project interesting?
+3.  What are the key uncertainties involved in the project?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P2: Progress report I
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Identification of stakeholders.
+2.  Identification of benefits and costs.
+3.  Data sources you are using and any data problems you are encountering.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P3: Progress report II
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Project finance.
+2.  Major barriers to a successful completion of your written project.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P4: Powerpoint presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #23
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P5: Final report
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #26
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Examples of the final report are available below. All work is courtesy of MIT Students and is used with permission.
 
@@ -74,5 +162,5 @@ Atlanta BeltLine ([PDF]({{< baseurl >}}/resources/mit1_011s11_proj_ex02))
 
 In addition to the project deliverables, students are expected to make two oral presentations on their term project:
 
-*   Mini-presentation (<7 minutes) on your initial ideas — Recitation 6.
+*   Mini-presentation (\<7 minutes) on your initial ideas — Recitation 6.
 *   Final presentation at end of term — Lec #23, 24 and 25.
