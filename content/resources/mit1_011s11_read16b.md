@@ -4,6 +4,11 @@ description: This resource contains the information related to how little mistak
   can lead to big differences in outcomes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-011-project-evaluation-spring-2011/3f52aa5db5a0c9d738c6550e551b1ec6_MIT1_011S11_read16b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 parent_uid: 96b480fa-dee1-1dac-1a05-134adc9d261b
 resourcetype: Document
 title: MIT1_011S11_read16b.pdf

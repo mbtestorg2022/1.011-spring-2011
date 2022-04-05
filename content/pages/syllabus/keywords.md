@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 089433c4-e77c-de6e-97b4-c7a46a4fadb4
 title: Keywords
 uid: 7a9554ab-ff1a-75b6-f6d6-88de3c324094

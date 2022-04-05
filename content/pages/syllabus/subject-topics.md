@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 089433c4-e77c-de6e-97b4-c7a46a4fadb4
 title: Subject Topics
 uid: eada1298-18a9-f76e-95e0-7a4808358f07
